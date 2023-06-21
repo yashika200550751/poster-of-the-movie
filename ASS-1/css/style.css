@@ -1,0 +1,193 @@
+main>div{
+    /*it chnages the font style*/
+    font-family: 'Oswald', sans-serif;
+}
+.fig>img{
+    /*it makes a flex container*/
+    display: flex;
+    /*it chnages the height of the image*/
+    height: 800px;
+    /*it changes the width of the image*/
+    width: 40%;
+    /*it sets the margin around the image*/
+    margin: auto;
+    /*it leves some space from the four side around the container*/
+    padding: 0% 20% 0% 20%;
+}
+.toptext-1>p{
+    position: absolute;
+    /* it chnages the colour of the text*/
+    color: darkcyan;
+    /*it adjust the text from the top of the web page*/
+    top: 4%;
+    /*it adjust the text from the left of the web page*/
+    left:50%;
+}
+.toptext-1>p{
+    /* it adds the space between letters*/
+    letter-spacing: 4px;
+    /*it adjust the size of the font*/
+    font-size: 12px;
+}
+.it{
+    /*it chnages the font style*/
+    font-style: italic;
+    /*it adjust the size of the font*/
+    font-size: 14px;
+    /* it adds the space between letters*/
+    letter-spacing: 2px;
+}
+.toptext-2>pre{
+    /*it chnages the font style*/
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    /*it chnage sthe colour of the fount*/
+    color: #f4f4f4;
+    /*it adjust the text from the top of the web page*/
+    top: 3%;
+    /*it adjust the text from the left of the web page*/
+    left:34.5%;
+    /*it adjust the size of the font*/
+    font-size: 30px;
+    /* it adds the space between letters*/
+    letter-spacing: 4px;
+}
+.small{
+    /*it adjust the size of the font*/
+    font-size: 23px;
+}
+.bottomtext-1>p{
+    position: absolute;
+    /*it adjust the size of the font*/
+    font-size: 18px;
+    /*it adjust the text from the top of the web page*/
+    top: 82%;
+    /*it adjust the text from the left of the web page*/
+    left: 47.5%;
+    /* it adds the space between letters*/
+    letter-spacing: 5px;
+    /*it chnage sthe colour of the fount*/
+    color: #f4f4f4;
+    font-weight: 400;
+}
+.bottomtext-2>p{
+    position: absolute;
+    /*it adjust the size of the font*/
+    font-size: 55px;
+    /*it adjust the text from the top of the web page*/
+    top: 78%;
+    /*it adjust the text from the left of the web page*/
+    left: 35%;
+    /* it adds the space between letters*/
+    letter-spacing: 14px;
+    font-weight: 500;
+    /*it chnage sthe colour of the fount*/
+    color: #f4f4f4;
+}
+.bottomtext-3>p{
+    position: absolute;
+    /*it adjust the size of the font*/
+    font-size: 18px;
+    /*it chnage sthe colour of the fount*/
+    color: #f4f4f4;
+    /* it adds the space between letters*/
+    letter-spacing: 5px;
+    /*it adjust the text from the top of the web page*/
+    top: 92%;
+    /*it adjust the text from the left of the web page*/
+    left: 47%;
+    font-weight: 300;
+}
+.bottomtext-4>pre{
+    position: absolute;
+    /*it chnage sthe colour of the fount*/
+    color: darkcyan;
+    /*it adjust the text from the top of the web page*/
+    top: 95.5%;
+    /*it adjust the text from the left of the web page*/
+    left: 35%;
+    /*it adjust the size of the font*/
+    font-size: 14px;
+    /* it adds the space between letters*/
+    letter-spacing: 1px;
+    /*it chnages the font style*/
+    font-style: italic;
+}
+.subpart-1,.subpart-2,.subpart-3,.subpart-4,.subpart-5,.subpart-6{
+    /*it chnages the font style*/
+    font-family: 'Oswald', sans-serif;
+    /*it adjust the size of the font*/
+    font-size: 7px;
+    /*it chnage sthe colour of the fount*/
+    color: darkcyan;
+    /*it chnages the font style*/
+    font-style: italic;
+}
+.secondsubpart-1>pre{
+    /*it chnages the font style*/
+    font-family: 'Oswald', sans-serif;
+    /*it adjust the size of the font*/
+    font-size: 14px;
+    position: absolute;
+    /*it adjust the text from the top of the web page*/
+    top: 96%;
+    /*it adjust the text from the left of the web page*/
+    left:35%;
+    /*it chnage sthe colour of the fount*/
+    color: darkcyan;
+    /* it adds the space between letters*/
+    letter-spacing: 1px;
+    /*it chnages the font style*/
+    font-style: italic;
+}
+.bottomtext-5>p{
+    position: absolute;
+    /*it chnage sthe colour of the fount*/
+    color: darkcyan;
+    /*it adjust the text from the top of the web page*/
+    top: 97.8%;
+    /*it adjust the text from the left of the web page*/
+    left: 46.5%;
+    /*it adjust the size of the font*/
+    font-size: 14px;
+    /* it adds the space between letters*/
+    letter-spacing: 1px;
+    /*it chnages the font style*/
+    font-style: italic;
+}
+.secondsubpart-2>pre {
+    /*it chnages the font style*/
+    font-family: 'Oswald', sans-serif;
+    /*it adjust the size of the font*/
+    font-size: 14px;
+    position: absolute;
+    /*it adjust the text from the top of the web page*/
+    top: 98.5%;
+    /*it adjust the text from the left of the web page*/
+    left: 45.5%;
+    /*it chnage sthe colour of the fount*/
+    color: darkcyan;
+    /* it adds the space between letters*/
+    letter-spacing: 1px;
+    /*it chnages the font style*/
+    font-style: italic;
+}
+.lastpart{
+    /*it chnage sthe colour of the fount*/
+    color: #f4f4f4;
+    /*it adjust the size of the font*/
+    font-size: 16px;
+    /*it chnages the font style*/
+    font-style: normal;
+    /* it adds the space between letters*/
+    letter-spacing: 5px;
+}
+.logo>img{
+    position: absolute;
+    /*it adjust the text from the top of the web page*/
+    top:101.5%;
+    /*it adjust the text from the left of the web page*/
+    left:34.5%;
+    height: 3%;
+    width: 4.5%;
+}
